@@ -90,7 +90,7 @@ This project is developed and maintained in my free time.
 If you enjoy this add-on and find it useful,
 I would really appreciate a small donation to support my work and ongoing development.
 
-👉 Donate via PayPal [paypal.me/cyclemat](http://paypal.me/cyclemat)
+👉 Donate via PayPal http://paypal.me/cyclemat
 
 Donations are completely optional – thank you!
 
