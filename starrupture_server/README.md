@@ -126,7 +126,12 @@ SteamCMD will automatically download and install the server into:
 
 If you already have savegames, copy them into:
 ```
-\\<HOME_ASSISTANT_IP>\share\starrupture\savegame\
+\\<HOME_ASSISTANT_IP>\share\starrupture\savegame\YourServerName
+Create a file
+\\<HOME_ASSISTANT_IP>\share\starrupture\savegame\SaveData.dat
+Edit the File
+add /YourServerName/AutoSaveXX <- Yourlast Savefile
+
 ```
 
 ---
