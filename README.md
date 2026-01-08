@@ -52,7 +52,7 @@ https://github.com/cyclemat/HAOS---StarRupture-Dedicated-Server
 
 All server data is stored persistently under:
 
-```text
+
 /share/starrupture/
 ├── server/    ← Server files (SteamCMD)
 └── savegame/  ← Savegames
