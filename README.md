@@ -4,7 +4,7 @@
 ![Architecture](https://img.shields.io/badge/Architecture-amd64-blue)
 ![SteamCMD](https://img.shields.io/badge/SteamCMD-Enabled-orange)
 ![Wine](https://img.shields.io/badge/Wine-Enabled-purple)
-![Status](https://img.shields.io/badge/Status-Stable-success)
+![Status](https://img.shields.io/badge/Status-Beta-orange)
 
 A Home Assistant OS add-on to run a fully host-based **StarRupture Dedicated Server**
 using **SteamCMD + Wine**.
