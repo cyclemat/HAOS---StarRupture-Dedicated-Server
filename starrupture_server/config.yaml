@@ -1,7 +1,12 @@
 name: StarRupture Dedicated Server (SteamCMD + Wine)
 slug: starrupture_server
-description: StarRupture Dedicated Server als Home Assistant Add-on
 version: "1.0.6"
+
+description: >
+  StarRupture Dedicated Server as Home Assistant Add-on.
+  Server configuration is done in-game.
+
+url: https://github.com/cyclemat/HAOS---StarRupture-Dedicated-Server
 
 arch:
   - amd64
