@@ -235,3 +235,8 @@ The server runs silently until players connect.
 
 This add-on is **not affiliated with or endorsed by StarRupture or its developers**.  
 All trademarks belong to their respective owners.
+
+
+This project is developed and maintained in my free time.
+If it helps you and you like my work, I would be very happy about a small donation via PayPal to support further development.
+Paypal: CyCleMat@googlemail.com
