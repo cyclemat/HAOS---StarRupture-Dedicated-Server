@@ -42,8 +42,7 @@ No additional server, VM or external host is required.
 3. Add the following repository:
 https://github.com/cyclemat/HAOS---StarRupture-Dedicated-Server
 
-yaml
-Code kopieren
+
 4. Install **StarRupture Dedicated Server**
 5. Start the add-on
 
@@ -59,8 +58,6 @@ All server data is stored persistently under:
 └── savegame/  ← Savegames
 You can access this directory from Windows via:
 
-php-template
-Code kopieren
 \\<HOME_ASSISTANT_IP>\share\starrupture\
 🎮 Server Configuration
 ⚠️ Server configuration is done in-game only.
